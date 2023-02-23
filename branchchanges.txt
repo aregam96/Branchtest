@@ -1,0 +1,6 @@
+Branch 2
+Editing the text from branch 2
+
+
+
+Edit from branch1 11
