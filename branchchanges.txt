@@ -6,4 +6,15 @@ Editing the text from branch 2
 Edit from branch1 11
 Testing gain
 
+
 Pushing to master
+
+
+Master edit
+Master second attempt
+
+Branch3
+
+Master change3
+
+rule change Testing
